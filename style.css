@@ -1,0 +1,25 @@
+h1{
+    padding-left: 37%;
+    color: blueviolet;
+}
+
+.btn{
+    width: 100px;
+    height: 35px;
+    background-color: yellow;
+    color: black;
+    margin-left: 43%;
+    margin-top: 20px;
+    border-radius: 50px;
+}
+
+.btn:hover{
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
+
+img{
+    padding-left: 33%;
+    padding-top: 20px;
+}
